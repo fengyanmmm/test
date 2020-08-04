@@ -4,5 +4,5 @@ public class DemoTest {
     private String name;
     private String dev_1;
     private String test;
-    private String javakc79;
+    private String javakc79_2;
 }
